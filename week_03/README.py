@@ -1,0 +1,7 @@
+print("Hello Python")
+print("name : Peerapat Puttasaro")
+print("nickname : Peem")
+print("age : 18")
+print("number : 10")
+print("StdId : 67319010010")
+print("Hobbie : play games")
